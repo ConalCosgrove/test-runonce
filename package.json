@@ -1,0 +1,20 @@
+{
+  "name": "test-runonce",
+  "version": "1.0.0",
+  "description": "Testing a javascipt file that runs only once then exits on heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConalCosgrove/test-runonce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConalCosgrove/test-runonce/issues"
+  },
+  "homepage": "https://github.com/ConalCosgrove/test-runonce#readme"
+}
